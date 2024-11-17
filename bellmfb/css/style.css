@@ -1,6 +1,11 @@
+background-color: #003022;
+
+
 body{
-    background-color: #003022;
+    background: #003032 url('bgcover.png') no-repeat right top fixed;
 }
+
+
 
 #logo{
     width: 180px;
