@@ -1,8 +1,10 @@
-background-color: #003022;
-
 
 body{
-    background: #003032 url('bgcover.png') no-repeat right top fixed;
+    background-color: #003022;
+}
+
+p{
+    display: none;
 }
 
 
