@@ -15,11 +15,6 @@ body{
     border-bottom: 2px solid #005c3c;
 }
 
-p{
-    border: solid 2px black;
-}
-
-
 nav li{
     list-style-type: none;
     margin: 0px 15px;
