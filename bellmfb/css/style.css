@@ -50,3 +50,17 @@ nav a{
     line-height: 1.2;
 }
 
+#heroMsg{
+    color: white;
+    font-size: 0.9em;
+    margin: 4% 0px;
+}
+
+#starDiv{
+    border-left: 3px solid white;
+    padding: 1% 2%;
+    margin-bottom: 4%;
+    color: white;
+    font-size: 0.8em;
+}
+
