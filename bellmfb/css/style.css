@@ -1,3 +1,7 @@
+/* .yellow_star{
+    color: #f0ad4e;
+} */
+
 body{
     background-color: #003022;
     font-family: "DM Sans", sans-serif;
@@ -31,5 +35,18 @@ nav a{
     text-decoration: none;
 }
 
+#heroSection {
+    margin: 5% 10%;
+    display: grid; /* Activate grid layout */
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    grid-template-rows: auto; /* Rows adjust to content height */
+    gap: 20px; /* Space between grid items */
+}
 
+#slogan{
+    color: white;
+    font-size: 3.5em;
+    font-weight: bold;
+    line-height: 1.2;
+}
 
