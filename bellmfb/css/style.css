@@ -95,7 +95,7 @@ nav a{
     font-weight: bold;
 }
 
-#accountTypeSection{
+#accountTypeSection, #websiteFeatures{
     text-align: center;
     padding: 2%;
 }
