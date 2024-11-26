@@ -210,3 +210,51 @@ nav a{
     border-radius: 25px;
 }
 
+.column-5{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+    grid-template-rows: auto;
+    gap: 20px; 
+}
+
+#footerSection{
+    background-color: white;
+    color: #00100b;
+    padding: 2% 10% 5% 10%;    
+}
+
+.text-center{
+    text-align: center;
+}
+
+#footerSection ul{
+    list-style-type: none;
+    padding: 2px 0px;
+}
+
+#footerSection li{
+    padding: 2%;
+}
+
+.input_field{
+    padding: 5%;
+    width: 100%;
+    margin: 2% 0px;
+    border-radius: 5px;
+    border: 1px solid #93ce8f;
+    font-size: 1em;
+}
+
+.input_btn{
+    background-color: #00bc74;
+    color: white;
+    padding: 5% 10%;
+    margin: 2% 0px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.bottom-top{
+    border-top: 1px solid #93ce8f;
+}
